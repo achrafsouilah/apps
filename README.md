@@ -26,25 +26,3 @@ expo install expo-updates
 Using google sign in provides a better user experience although we need to configure a few extra steps.
 
 Please consider following me:
-
-[**Code With Beto**](http://codewithbeto.vercel.app/)
-
-[**YouTube**](https://www.youtube.com/c/BetoMoedano)
-
-[**Twitch**](https://www.twitch.tv/betomoedano)
-
-[**Github**](https://github.com/betomoedano)
-
-[**linkedin**](https://www.linkedin.com/in/betomoedano)
-
-[**Medium**](https://medium.com/@betomoedano01)
-
-[**Discord**](https://discord.com/invite/dbYfWFw862)
-
-[**Twitter**](https://twitter.com/betomoedano)
-
-[**Instagram**](https://www.instagram.com/betomoedano)
-
-[**Figma**](https://www.figma.com/@betomoedano)
-
-[Check my blog](https://www.codewithbeto.dev)
